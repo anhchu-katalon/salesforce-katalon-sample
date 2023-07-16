@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Date Picker3</name>
+   <tag></tag>
+   <elementGuidId>ad2290ef-4754-479d-8e5a-b8c8e6b8d470</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Date'])[1]/following::a[15]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.datePicker-openIcon.display</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5a29b87b-e15d-45db-b7f3-e2ddc2578980</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3822eb78-cf88-47fb-a8d8-fa822b316e1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>datePicker-openIcon display</value>
+      <webElementGuid>3fd7873f-0ef8-4617-b054-16173aa1a8e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>62:2309;a</value>
+      <webElementGuid>3a4a3e2e-880e-4aed-a294-ad7af6426436</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>8e3895e1-c0d9-4cd2-a090-cb7bff77402e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Date Picker</value>
+      <webElementGuid>9d35f8ab-219b-4230-9bd1-89f3f399dc18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;8:2309;a&quot;)/div[@class=&quot;slds-form form-horizontal slds-is-editing&quot;]/div[@class=&quot;slds-grid slds-gutters_small full cols-2 forcePageBlockSectionRow&quot;]/div[@class=&quot;slds-grid slds-col slds-is-editing slds-has-flexi-truncate full forcePageBlockItem forcePageBlockItemEdit&quot;]/div[@class=&quot;slds-form-element slds-hint-parent&quot;]/div[@class=&quot;slds-form-element__control&quot;]/fieldset[@class=&quot;uiInput uiInputDateTime uiInput--default uiInput--input uiInput--datetime&quot;]/div[@class=&quot;form--stacked form-element__group&quot;]/div[@class=&quot;dateTime-inputDate form-element form-element__control&quot;]/a[@class=&quot;datePicker-openIcon display&quot;]</value>
+      <webElementGuid>4c2ecb8e-5282-44c1-99ea-1a83e5b321c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date'])[1]/following::a[1]</value>
+      <webElementGuid>9cd7a977-60a4-449a-aa99-d6b71342d2c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actual End'])[1]/following::a[1]</value>
+      <webElementGuid>93c87ab3-ec69-49af-a7c6-675f379acc1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time'])[1]/preceding::a[1]</value>
+      <webElementGuid>91ce4cd9-d3b3-42e6-b76e-079653e928ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);' and (text() = 'Date Picker' or . = 'Date Picker')]</value>
+      <webElementGuid>35bb2589-1a6d-4d54-afca-21d93cab4673</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='8:2309;a']/div/div[2]/div/div/div/fieldset/div/div/a</value>
+      <webElementGuid>a4aa6334-9bf2-4543-b4b8-3c7e84366a87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[38]</value>
+      <webElementGuid>c4d4c97a-2cc2-4486-bebd-97429b0f992f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div/div/a</value>
+      <webElementGuid>6a1a1cb6-59d3-439f-90f6-a59096b123b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
